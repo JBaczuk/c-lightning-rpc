@@ -1,0 +1,24 @@
+{
+  "name": "c-lightning-rpc",
+  "version": "1.0.0",
+  "description": "Node.js API client for C-Lightning",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbaczuk/c-lightning-rpc.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "lightning",
+    "rpc"
+  ],
+  "author": "Jordan Baczuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbaczuk/c-lightning-rpc/issues"
+  },
+  "homepage": "https://github.com/jbaczuk/c-lightning-rpc#readme"
+}
