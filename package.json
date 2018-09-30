@@ -1,6 +1,6 @@
 {
-  "name": "c-lightning-rpc",
-  "version": "1.0.0",
+  "name": "@jbaczuk/c-lightning-rpc",
+  "version": "1.0.1",
   "description": "Node.js API client for C-Lightning",
   "main": "index.js",
   "scripts": {
